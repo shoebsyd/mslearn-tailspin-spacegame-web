@@ -1,3 +1,4 @@
+
 [![Build Status](https://dev.azure.com/syedshoeb0290/Space%20Game%20-%20web%20-%20Tests/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/syedshoeb0290/Space%20Game%20-%20web%20-%20Tests/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
@@ -29,4 +30,4 @@ Microsoft's general trademark guidelines can be found at http://go.microsoft.com
 Privacy information can be found at https://privacy.microsoft.com/en-us/
 
 Microsoft and any contributors reserve all other rights, whether under their respective copyrights, patents,
-or trademarks, whether by implication, estoppel or otherwise.
+or trademarks, whether by implication, estoppel or otherwis
